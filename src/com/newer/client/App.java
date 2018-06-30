@@ -1,9 +1,9 @@
-package com.newer.client;
+﻿package com.newer.client;
 
 /**
  * 客户端
  * 
- * @author 
+ * @author lwji
  *
  */
 public class App {
